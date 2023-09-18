@@ -19,3 +19,7 @@
   <img src="https://www.codewars.com/users/MariiaMonakhova/badges/large" alt="Codewars Badge">
 </a>
 
+<p>Leetcode solutions</p>
+<a href="https://github.com/MariiaMon/leetcode-stats">
+  <img src="https://leetcode-stats-six.vercel.app/api?username=MariiaMon" alt="Mariia's LeetCode Stats">
+</a>
