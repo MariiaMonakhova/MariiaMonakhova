@@ -5,8 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Fullstack+developer+from+Ukraine" alt="Typing SVG">
   </a>
 </p>
-
-<h4>🔭 I’m currently looking for a job</h4> 
+ 
 <p>📫 How to reach me: <a href="mailto:mariia.monakhova.dev@gmail.com">mariia.monakhova.dev@gmail.com</a></p>  
 
 <p align="center">
