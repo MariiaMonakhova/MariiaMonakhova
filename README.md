@@ -26,9 +26,7 @@
 </p>
 <hr />
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=MariiaMonakhova" alt="GitHub Streak" />
-  </a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MariiaMonakhova" alt="GitHub Streak" /></a>
 </p>
  
 <p align="center">
