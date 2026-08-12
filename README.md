@@ -12,7 +12,7 @@
 <h3 align="center">🚀 About Me</h3>
  
 <p align="center">
-  💻 Fullstack developer who loves crafting end-to-end products<br>
+  💻 Software Engineer/AI Engineer who loves crafting end-to-end products<br>
   🌱 Continuously sharpening my skills through real projects & algorithm challenges<br>
   📫 Reach me at <a href="mailto:mariia.monakhova.dev@gmail.com">mariia.monakhova.dev@gmail.com</a>
 </p>
@@ -23,38 +23,10 @@
   <a href="mailto:mariia.monakhova.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <!-- Add your real links below and uncomment -->
-  <!-- <a href="https://www.linkedin.com/in/YOUR_HANDLE/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a> -->
 </p>
 <hr />
  
-<h3 align="center">📊 GitHub Analytics</h3>
- 
-<table align="center">
-  <tr>
-    <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MariiaMonakhova&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-    </td>
-    <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariiaMonakhova&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Langs"/>
-    </td>
-  </tr>
-</table>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MariiaMonakhova&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-<hr />
- 
-<h3 align="center">🧩 Coding Challenges</h3>
- 
-<p align="center">
-  <a href="https://www.codewars.com/users/MariiaMonakhova">
-    <img src="https://www.codewars.com/users/MariiaMonakhova/badges/large" alt="Codewars Badge"/>
-  </a>
-</p>
-<hr />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
  
 <p align="center">
   <i>⭐️ From <a href="https://github.com/MariiaMonakhova">Mariia</a> — thanks for stopping by!</i>
