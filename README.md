@@ -25,8 +25,10 @@
   </a>
 </p>
 <hr />
- 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+ <div align="center">
+   [![GitHub Streak](https://streak-stats.demolab.com/?user=MariiaMonakhova)](https://git.io/streak-stats)
+ </div>
+
  
 <p align="center">
   <i>⭐️ From <a href="https://github.com/MariiaMonakhova">Mariia</a> — thanks for stopping by!</i>
