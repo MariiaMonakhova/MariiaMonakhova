@@ -25,9 +25,7 @@
   </a>
 </p>
 <hr />
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MariiaMonakhova" alt="GitHub Streak" /></a>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=MariiaMonakhova&theme=dark&hide_border=true)](https://git.io/streak-stats)
  
 <p align="center">
   <i>⭐️ From <a href="https://github.com/MariiaMonakhova">Mariia</a> — thanks for stopping by!</i>
